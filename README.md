@@ -22,11 +22,10 @@ const Nepali = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, C],
   tools: [React, Node, Styled-Components],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   details: {
                         experience: "2yrs",
                         languages: "Nepali, English, Hindi" 
                       },
- current_work: "I am making a portfolio site for myself."
+ current_work: "Working on a portfolio site for myself."
 
 }
