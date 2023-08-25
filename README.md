@@ -15,3 +15,18 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+### <img src="https://media3.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.webp?cid=ecf05e474u4yu87jkaa4ak01c1dav6owlol49c6jgwqjv1j7&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="50"> A little more about me...  
+
+```javascript
+const Nepali = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, C],
+  tools: [React, Node, Styled-Components],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  details: {
+                        experience: "2yrs",
+                        languages: "Nepali, English, Hindi" 
+                      },
+ current_work: "I am making a portfolio site for myself."
+
+}
