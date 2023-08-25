@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514869/8809/wave_hello.gif?1643514869" width="30"/> Hi! I'm Diwash.</h1>
 
----
-
 <p> A fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/3578/3578464.png" width="13"/> <b>Kathmandu, Nepal</b>. </p>
 
 ### 👨🏻‍💻 Languages
