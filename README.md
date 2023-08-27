@@ -28,13 +28,14 @@ const Nepali = {
                       },
  current_work: "Working on a portfolio site for myself."
 
-} ```
+}
+```
 
 #
 
 ### 📺 Projects
 
 <!-- BEGIN CARDS -->
-[![Tinder for Dogs](https://diwashadh.github.io/Tinder-For-Dogs/ "Tinder for Dogs (Tin Dog)")](https://diwashadh.github.io/Tinder-For-Dogs/)
+[![Tinder for Dogs](https://diwashadh.github.io/Tinder-For-Dogs/ "Tinder for Dogs (Tin Dog)")](https://diwashadh.github.io/Tinder-For-Dogs/)]
 
 <!-- END YOUTUBE-CARDS -->
