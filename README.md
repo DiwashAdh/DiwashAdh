@@ -36,6 +36,6 @@ const Nepali = {
 ### 📺 Projects
 
 <!-- BEGIN CARDS -->
-<img align="left" alt="Java" width="200px" style="padding-right:10px;" src="./tindog.png"/>
+<img align="left" alt="Java" width="500px" style="padding-right:10px;" src="./tindog.png"/>
 
 <!-- END YOUTUBE-CARDS -->
