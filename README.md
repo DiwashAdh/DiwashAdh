@@ -36,6 +36,9 @@ const Nepali = {
 ### 📺 Projects
 
 <!-- BEGIN CARDS -->
+### TinDog
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./tindog.png"/>
+
+### Simon Game
 
 <!-- END YOUTUBE-CARDS -->
