@@ -36,6 +36,6 @@ const Nepali = {
 ### 📺 Projects
 
 <!-- BEGIN CARDS -->
-[![Tinder for Dogs](https://diwashadh.github.io/Tinder-For-Dogs/ "Tinder for Dogs (Tin Dog)")](https://diwashadh.github.io/Tinder-For-Dogs/)]
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./tindog"/>
 
 <!-- END YOUTUBE-CARDS -->
