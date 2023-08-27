@@ -39,32 +39,32 @@ const Nepali = {
 ### Decentralized NFT Marketplace
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./nft.png"/>
 
-#
+-
 
 ### Decentralized bank
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./dbank.png"/>
 
-#
+-
 
 ### Decentralized Notes / Keeper 
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./keeper.png"/>
 
-#
+-
 
 ### Decentralized Token / Coin
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./token.png"/>
 
-#
+-
 
 ### Tinder for dogs ( TinDog )
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./tindog.png"/>
 
-#
+-
 
 ### Drumkit
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./drumkit.png"/>
 
-#
+-
 
 ### Simon Game
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./simon.png"/>
