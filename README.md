@@ -36,26 +36,37 @@ const Nepali = {
 ### 📺 Projects
 
 <!-- BEGIN CARDS -->
-- ### Decentralized NFT Marketplace
+###Decentralized NFT Marketplace
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./nft.png"/>
 
+<br>
 
-### Decentralized bank
+###Decentralized bank
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./dbank.png"/>
 
-- ### Decentralized Notes / Keeper 
+<br>
+
+###Decentralized Notes / Keeper 
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./keeper.png"/>
 
-- ### Decentralized Token / Coin
+<br>
+
+###Decentralized Token / Coin
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./token.png"/>
 
-- ### Tinder for dogs ( TinDog )
+<br>
+
+###Tinder for dogs ( TinDog )
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./tindog.png"/>
 
-- ### Drumkit
+<br>
+
+###Drumkit
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./drumkit.png"/>
 
-- ### Simon Game
+<br>
+
+###Simon Game
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./simon.png"/>
 
 <!-- END CARDS -->
