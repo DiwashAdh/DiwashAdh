@@ -28,7 +28,7 @@ const Nepali = {
                       },
  current_work: "Working on a portfolio site for myself."
 
-}
+} ```
 
 #
 
