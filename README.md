@@ -16,7 +16,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiwashAdh\&layout=compact)</p>
+<p align="right" alt="TypeScript" width="30px" style="padding-left:10px >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiwashAdh\&layout=compact)</p>
 
 
 ### <img src="https://media3.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.webp?cid=ecf05e474u4yu87jkaa4ak01c1dav6owlol49c6jgwqjv1j7&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="50"> A little more about me...  
