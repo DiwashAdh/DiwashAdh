@@ -42,12 +42,12 @@ const Nepali = {
 
 <!-- BEGIN CARDS -->
 ### Regional-Level STEM Competition Spetial Mention Project
-<img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./stem.jpg"/>
+<img align="left" alt="Java" width="1000px" height="550px" style="padding-right:10px;" src="./stem.jpg"/>
 
 ****
 
 ### RC Aeroplane 5ft long
-<img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./airplane.jpg"/>
+<img align="left" alt="Java" width="1000px" height="550px" style="padding-right:10px;" src="./airplane.jpg"/>
 
 ****
 
