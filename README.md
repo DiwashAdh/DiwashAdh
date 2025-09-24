@@ -41,6 +41,16 @@ const Nepali = {
 ### 📺 Projects
 
 <!-- BEGIN CARDS -->
+### Regional-Level STEM Competition Spetial Mention Project
+<img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./stem.png"/>
+
+****
+
+### RC Aeroplane 5ft long
+<img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./airplane.png"/>
+
+****
+
 ### Decentralized NFT Marketplace 🔴
 <img align="left" alt="Java" width="1000px" style="padding-right:10px;" src="./nft.png"/>
 
