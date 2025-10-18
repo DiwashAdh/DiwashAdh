@@ -28,7 +28,7 @@ const Nepali = {
   code: [Javascript, Typescript, HTML, CSS, Python, C],
   tools: [React, Node, Styled-Components],
   details: {
-                        experience: "2yrs",
+                        experience: "5yrs",
                         languages: "Nepali, English, Hindi" 
                       },
  current_work: "Working on a portfolio site for myself."
